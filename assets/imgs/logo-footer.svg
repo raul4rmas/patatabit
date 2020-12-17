@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="53.365028"
+   height="35.349403"
+   viewBox="0 0 53.365028 35.349403"
+   fill="none"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="logo-footer.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3321">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3317" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3319" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3297"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3295" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3283"
+       x="-1.7308726e-05"
+       width="1.0000346"
+       y="-0.00012233248"
+       height="1.0002447">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0007068088"
+         id="feGaussianBlur3285" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3321"
+       id="linearGradient3325"
+       x1="46.700317"
+       y1="12.188449"
+       x2="144.70866"
+       y2="12.188449"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview16"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.3018507"
+     inkscape:cx="10.69606"
+     inkscape:cy="33.588737"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     d="M 21.726789,18.2838 C 15.303489,20.281 4.9288885,18.2399 4.8367885,9.3449004 4.7445885,0.44983037 15.816789,5.7485204 15.816789,5.7485204 Z"
+     fill="#ffc250"
+     id="path4" />
+  <path
+     d="M 7.9597885,6.3542604 C 12.442789,5.5860804 15.847489,11.5265 19.614489,17.7232 c 3.7669,6.1968 13.5759,8.653 19.8435,3.4418 6.2675,-5.2111 8.9202,-14.3378696 1.2246,-19.7818296 -7.6955,-5.44396 -12.4993,6.91555 -19.1243,7.25528 -6.6249,0.33974 -6.6732,-4.58478 -13.5985005,-2.28419 z"
+     fill="#ffd064"
+     id="path6" />
+  <circle
+     cx="40.03339"
+     cy="9.6218996"
+     r="1.96745"
+     fill="#ffe19d"
+     id="circle8" />
+  <circle
+     cx="36.26239"
+     cy="11.0974"
+     r="1.47559"
+     fill="#ffe19d"
+     id="circle10" />
+  <circle
+     cx="38.885689"
+     cy="13.0648"
+     r="1.14768"
+     fill="#ffe19d"
+     id="circle12" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:1.25;font-family:'Source Sans Variable';-inkscape-font-specification:'Source Sans Variable, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;white-space:pre;inline-size:100.161;fill:#ffd064;fill-opacity:1;stroke:#ffd064;stroke-width:1.26609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3283);"
+     x="45.165363"
+     y="19.121771"
+     id="text879"
+     transform="matrix(0.54449471,0,0,0.50533767,-25.428075,25.685593)"><tspan
+       x="45.165363"
+       y="19.121771"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'Source Sans Variable';-inkscape-font-specification:'Source Sans Variable, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;fill:#ffd064;fill-opacity:1;stroke:#ffd064;stroke-width:1.26609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PATATABIT</tspan></tspan></text>
+</svg>
