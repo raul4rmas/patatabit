@@ -443,3 +443,6 @@ footer section {
     text-decoration: none;
     color: white;
 }
+.right img {
+    width: 54px;
+}
