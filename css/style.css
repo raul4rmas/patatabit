@@ -40,7 +40,7 @@ header {
 }
 header img {
     width: 60px;
-    margin-top: 30px;
+    margin-top: 50px;
     align-self: center;
 }
 .header-title-container {
@@ -49,7 +49,7 @@ header img {
     min-width: 288px;
     max-width: 900px;
     height: 218px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 /* sólo puede haber un h1 en el proyecto por temas de SEO */
 .name__header {
