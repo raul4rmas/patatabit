@@ -53,11 +53,11 @@ header img {
 }
 /* sólo puede haber un h1 en el proyecto por temas de SEO */
 .name__header {
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-weight: 1000;
     line-height: 2.6rem;
     color: var(--soft-yellow);
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .header-title-container h2 {
@@ -462,7 +462,7 @@ footer section {
 }
 .name__footer {
     color: var(--soft-yellow);
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 1000;
     margin-top: 5px;
 }
