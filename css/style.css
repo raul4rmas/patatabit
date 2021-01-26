@@ -10,6 +10,7 @@
     /* colores */
     --bitcoin-orange: #F7931A;
     --soft-orange: #FFE9D5;
+    --soft-yellow: #ffd064;
     --secondary-blue: #1a9af7;
     --soft-blue: #E7F5FF;
     --black: #282623;
@@ -38,8 +39,8 @@ header {
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
 header img {
-    width: 151px;
-    margin-top: 60px;
+    width: 60px;
+    margin-top: 30px;
     align-self: center;
 }
 .header-title-container {
@@ -48,17 +49,25 @@ header img {
     min-width: 288px;
     max-width: 900px;
     height: 218px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 /* sólo puede haber un h1 en el proyecto por temas de SEO */
-h1 {
+.name__header {
+    font-size: 2.4rem;
+    font-weight: 1000;
+    line-height: 2.6rem;
+    color: var(--soft-yellow);
+    margin-bottom: 20px;
+}
+
+.header-title-container h2 {
     font-size: 2.4rem;
     font-weight: bold;
     line-height: 2.6rem;
     color: white;
 }
 .header-title-container p {
-    margin-top: 25px;
+    margin-top: 10px;
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
@@ -111,7 +120,7 @@ main {
     height: 200px;
     margin: 0px auto;
     margin-bottom: 50px;
-    background-image: url(../assets/imgs/Bitcoin.svg);
+    background-image: url(../assets/icons/bitcoin.svg);
     background-size: cover;
     background-position: center;
 } 
@@ -232,12 +241,16 @@ de sus etiquetas tr o td */
     background-color: var(--warm-black);
 }
 .product-detail--patata-logo {
-    position: absolute;
     width:  40px;
-    height: 25px;
-    top: -10px;
+    height: 24px;
+    top: -12px;
     left: calc(50% - 20px);
-    background-image: url(../assets/icons/patata.svg);
+    background-image: url(../assets/icons/patatabit.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.middle {
+    position: absolute;
 }
 .product-detail--title {
     width: 90%;
@@ -302,19 +315,19 @@ de sus etiquetas tr o td */
     line-height: 1.8rem;
     color: #808080;
 }
-.bitcoin-ing-cointainer {
+.bitcoin-model-background-cointainer {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(../assets/imgs/bitcoinbaby2x.png);
+    background-image: url(../assets/images/bitcoinmodel.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
 }
-.bitcoin-ing-cointainer h2 {
-    padding-top: 60px;
-    font-size: 2.4rem;
+.bitcoin-model-background-cointainer h2 {
+    padding-top: 120px;
+    font-size: 3rem;
     font-weight: bold;
     line-height: 2.6rem;
     color: white;
@@ -443,6 +456,13 @@ footer section {
     text-decoration: none;
     color: white;
 }
-.right img {
-    width: 54px;
+.right {
+    display: flex;
+    flex-direction: column;
+}
+.name__footer {
+    color: var(--soft-yellow);
+    font-size: 1.4rem;
+    font-weight: 1000;
+    margin-top: 5px;
 }
