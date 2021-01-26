@@ -1,8 +1,11 @@
 header img {
-    width: 280px;
+    width: 100px;
 }
 .header-title-container h1 {
-    font-size: 2.8rem;
+    font-size: 2rem;
+}
+.name__header {
+    margin-bottom: 40px;
 }
 .header-title-container p {
     font-size: 2rem;
@@ -11,12 +14,16 @@ header img {
     grid-template-columns: 320px 320px;
     justify-content: center;
 }
+.product-detail--patata-logo {
+    width: 64px;
+    height: 38px;
+    top: -19px;
+    left: calc(50% - 32px);
+}
 .product-cards-container {
     display: grid;
     grid-template-columns: 430px 430px;
     justify-content: center;
-}
-.bitcoin-ing-cointainer {
 }
 .bitcoin-ing-cointainer h2 {
     padding-top: 150px;

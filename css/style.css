@@ -243,14 +243,14 @@ de sus etiquetas tr o td */
 .product-detail--patata-logo {
     width:  40px;
     height: 24px;
-    top: -12px;
-    left: calc(50% - 20px);
     background-image: url(../assets/icons/patatabit.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
 .middle {
     position: absolute;
+    top: -12px;
+    left: calc(50% - 20px);
 }
 .product-detail--title {
     width: 90%;
@@ -326,10 +326,10 @@ de sus etiquetas tr o td */
     text-align: center;
 }
 .bitcoin-model-background-cointainer h2 {
-    padding-top: 120px;
+    padding-top: 130px;
     font-size: 3rem;
-    font-weight: bold;
-    line-height: 2.6rem;
+    font-weight: 1000;
+    line-height: 5rem;
     color: white;
 }
 .main-plains-container {
